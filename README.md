@@ -7,7 +7,7 @@ Referência para EJB, JPA, JakartaEE
 ## JakartaEE
  
 
-In this repository we have several examples of how to implement object-oriented code in Java. These are test codes that I developed during the studies of the Java Language.
+In this repository we have several examples of how to implement object-oriented code in Java. These are test codes that I developed during the studies of the Java Language. We have an example of implementation with JakartaEE using WildFly server. 
  
  
 ## Technology 
