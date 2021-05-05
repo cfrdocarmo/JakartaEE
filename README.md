@@ -27,22 +27,22 @@ Here are the technologies used in this project.
 ## How to use
  
 ### 1 - Configuring the WildFly xml file to work with MySQL, installing the Drivers and creating the DataSource.
-![Login Sreen](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/configurationXmlWildFly.JPG)
+![Screen WildFly](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/configurationXmlWildFly.JPG)
 
 ### 2 - WildFly Administrative Panel with the Mysql server and DataSource created.
-![Home Screen](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/painelAdmWildFlyDriverMySQL.png)
+![Panel Screen](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/painelAdmWildFlyDriverMySQL.png)
 
 ### 3 - MySQL database table with test insert's.
-![CRUD Screen Products](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/promptTableMySQL.JPG)
+![Panel Screen](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/promptTableMySQL.JPG)
  
-### 3 - MySQL database table with test insert's.
-![CRUD Screen Products](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/promptTableMySQL.JPG)
+### 4 - PostMan table doing the Api test.
+![Screen PostMan](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/postmanGetJSON.JPG)
 
 ## Features
  
-  - CRUD of users and products.
-  - Synchronizes the information with the PostgreSQL database.
-  - Authenticates users to log in to the system.
+  - WildFly XML configuration.
+  - Synchronizes the information with the MySQL database.
+  - EJB use with Jakarta_EE..
  
  
 ## Links
