@@ -32,10 +32,12 @@ Here are the technologies used in this project.
 ### 2 - WildFly Administrative Panel with the Mysql server and DataSource created.
 ![Home Screen](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/painelAdmWildFlyDriverMySQL.png)
 
-### 3 - CRUD screen of products
-![CRUD Screen Products](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/ScreenshotTelaCRUDProdutos.png)
+### 3 - MySQL database table with test insert's.
+![CRUD Screen Products](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/promptTableMySQL.JPG)
  
- 
+### 3 - MySQL database table with test insert's.
+![CRUD Screen Products](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/promptTableMySQL.JPG)
+
 ## Features
  
   - CRUD of users and products.
