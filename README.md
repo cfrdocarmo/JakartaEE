@@ -29,8 +29,8 @@ Here are the technologies used in this project.
 ### 1 - Configuring the WildFly xml file to work with MySQL, installing the Drivers and creating the DataSource.
 ![Login Sreen](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/configurationXmlWildFly.JPG)
 
-### 2 - Initial base screen, with links to the desired option.
-![Home Screen](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/ScreenshotInicio.png)
+### 2 - WildFly Administrative Panel with the Mysql server and DataSource created.
+![Home Screen](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/painelAdmWildFlyDriverMySQL.png)
 
 ### 3 - CRUD screen of products
 ![CRUD Screen Products](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/ScreenshotTelaCRUDProdutos.png)
