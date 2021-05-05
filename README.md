@@ -26,8 +26,8 @@ Here are the technologies used in this project.
  
 ## How to use
  
-### 1 - Log into the app. For users already registered in the database.
-![Login Sreen](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/TelaLogin.png)
+### 1 - Configuring the WildFly xml file to work with MySQL, installing the Drivers and creating the DataSource.
+![Login Sreen](https://github.com/cfrdocarmo/JakartaEE/blob/main/readme_imagens/configurationXmlWildFly.JPG)
 
 ### 2 - Initial base screen, with links to the desired option.
 ![Home Screen](https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/blob/main/readme_imagens/ScreenshotInicio.png)
