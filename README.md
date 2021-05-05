@@ -48,7 +48,7 @@ Here are the technologies used in this project.
 ## Links
  
   - Link of deployed application: (if has been deployed)
-  - Repository: https://github.com/cfrdocarmo/Programando-Orientado-a-Objeto-Corretamente/tree/main/curso-jsp
+  - Repository: https://github.com/cfrdocarmo/JakartaEE
    
  
  
